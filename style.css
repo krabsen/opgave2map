@@ -1,0 +1,7 @@
+.ui-icon-myapp-smile {
+	background-image: url(img/icon.png) !important;
+}
+
+#map-page, #map-canvas { 
+    width: 80%; height: 80%; padding: 0; 
+}
